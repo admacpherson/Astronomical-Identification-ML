@@ -1,4 +1,4 @@
-# Astronomical-Identification-ML
+# Using Deep Neural Networks to Classify Astronomical Images
 As the quantity of astronomical data available continues to exceed the resources available for analysis, recent advances in artificial intelligence encourage the development of automated classification tools. This project, my undergraduate Honors Capstone Project at Seattle Pacific University, develops a framework for training a deep neural network capable of classifying individual astronomical images by describing techniques to extract and label these objects from large images.
 
 The deep neural network does not rely on any particular source of data but to obtain labeled images I used <a href="https://nova.astrometry.com">Astrometry</a> and processed them with <a href="https://www.astromatic.net/software/sextractor/">Source Extractor</a> to produce training data.
@@ -10,7 +10,7 @@ Presently (May 2023), this repository is being configured to include relevant do
 ## Academic Presentations
 This material has been/will be presented at the following university conferences:
 
-:star:Award Winner - Top Oral Presentation :star:<br>
+:star:<a href="https://sitecoremaster.spu.edu/-/media/academics/college-of-arts-sciences/erickson/2023/Erickson-2023-awardees.ashx"> Award Winner - Top Oral Presentation</a> :star:<br>
 <b>21st Annual Erickson Conference</b><br>
 <i>Seattle Pacific University</i><br>
 May 5th, 2023
