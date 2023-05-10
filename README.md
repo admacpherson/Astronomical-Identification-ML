@@ -10,6 +10,7 @@ Presently (May 2023), this repository is being configured to include relevant do
 ## Academic Presentations
 This material has been/will be presented at the following university conferences:
 
+:star:Award Winner - Top Oral Presentation :star:<br>
 <b>21st Annual Erickson Conference</b><br>
 <i>Seattle Pacific University</i><br>
 May 5th, 2023
