@@ -23,6 +23,15 @@ May 19th, 2023
 <i>Seattle Pacific University</i><br>
 May 20th, 2023
 
+## Repository Guide
+This repository accompanies the academic paper <i>Using Deep Neural Networks to Classify Astronomical Images</i> by Andrew Macpherson available in the Seattle Pacific University Digitial Commons. It is intended to provide access to files referenced in the paper and many proper descriptions are given in the paper. Nonetheless, a brief outline of the repository contents is as follows:
+
+📁Appendixes - Contains appendixes that are not given in the paper, namely Appendixes C, D, & E. These contain basic information for objects in the New General Catalog, Henry Draper Catalog, and Index Catalog.<br>
+📁Data - Contains sample raw astronomical images in FITS format. These sample files were used to create labeled images</br>
+📁Images - Contains labeled cutouts from sample FITS files.<br>
+📁Presentations - Contains recordings of presentations to university conferences.<br>
+📁config - Contains configuration files for Source Extractor, modified as described in the paper to adjust the appropriate parameters and extract relevant data.<br>
+
 ## Summary Data Flow Chart
 ![Preprocessing Data Flow](https://user-images.githubusercontent.com/102562791/229910764-7e243235-09e1-4631-baa3-614fc56b4838.png)
 ---
