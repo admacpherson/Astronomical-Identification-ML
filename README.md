@@ -8,7 +8,7 @@ Astrometry is of tremendous use for this purpose but the methodologies described
 Presently (May 2023), this repository is being configured to include relevant documents and files. Until this is complete, the repo may be incomplete and documentation may not yet be substansive. Please reach out via <a href="https://andrewm.tech#three">andrewm.tech</a> or email me at <a href="mailto:macphersona@spu.edu">macphersona@spu.edu</a> with any questions.
 
 ## Academic Presentations
-This material has been/will be presented at the following university conferences:
+This material was presented at the following university conferences. A slideshow recording of the Erickson conference is currently available and recordings of the others are being made available shortly.
 
 :star:<a href="https://sitecoremaster.spu.edu/-/media/academics/college-of-arts-sciences/erickson/2023/Erickson-2023-awardees.ashx"> Award Winner - Top Oral Presentation</a> :star:<br>
 <b>21st Annual Erickson Conference</b><br>
