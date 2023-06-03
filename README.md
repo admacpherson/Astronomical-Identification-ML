@@ -13,7 +13,8 @@ This material was presented at the following university conferences. A slideshow
 :star:<a href="https://sitecoremaster.spu.edu/-/media/academics/college-of-arts-sciences/erickson/2023/Erickson-2023-awardees.ashx"> Award Winner - Top Oral Presentation</a> :star:<br>
 <b>21st Annual Erickson Conference</b><br>
 <i>Seattle Pacific University</i><br>
-May 5th, 2023
+May 5th, 2023<br>
+<a href="https://youtu.be/vKQuGpHbEUY">Video Link</a>
 
 <b>26th Annual Undergraduate Research Symposium</b><br>
 <i>University of Washington</i><br>
@@ -21,7 +22,8 @@ May 19th, 2023
 
 <b>2nd Annual Honors Research Symposium</b><br>
 <i>Seattle Pacific University</i><br>
-May 20th, 2023
+May 20th, 2023<br>
+<a href="https://spu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?pid=2ceddffc-c8ac-414c-b525-b0150113e61e&id=600f5f55-6473-4288-b58d-b015011f1b67&advance=true">Video Link</a>
 
 ## Repository Guide
 This repository accompanies the academic paper <i>Using Deep Neural Networks to Classify Astronomical Images</i> by Andrew Macpherson available in the Seattle Pacific University Digitial Commons. It is intended to provide access to files referenced in the paper and many proper descriptions are given in the paper. Nonetheless, a brief outline of the repository contents is as follows:
