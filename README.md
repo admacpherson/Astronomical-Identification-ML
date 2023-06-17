@@ -22,7 +22,7 @@ This repository is designed for programmers and is organized in the following ma
 
 This material was presented at the following university conferences. Each was recorded in some capacity and is available for viewing online.
 
-:star:<a href="https://sitecoremaster.spu.edu/-/media/academics/college-of-arts-sciences/erickson/2023/Erickson-2023-awardees.ashx"> Award Winner - Top Oral Presentation</a> :star:<br>
+:star:<a href="https://spu.edu/academics/college-of-arts-sciences/erickson-conference/Conference-Program"> Award Winner - Top Oral Presentation</a> :star:<br>
 <b>21st Annual Erickson Conference</b><br>
 <i>Seattle Pacific University</i><br>
 May 5th, 2023<br>
